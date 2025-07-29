@@ -4,7 +4,7 @@ description: "A Flutter widget for cascading country, state/province, and city s
 version: 0.0.1
 homepage: https://github.com/Arpit980jai/world_csc_picker
 repository: https://github.com/Arpit980jai/world_csc_picker
-publisher: arpitjai.com
+publish_to: arpitjai.com
 
 
 environment:
