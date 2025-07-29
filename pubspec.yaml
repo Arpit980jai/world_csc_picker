@@ -1,7 +1,7 @@
 name: world_csc_picker
 
 description: "A Flutter widget for cascading country, state/province, and city selection with up‑to‑date data."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Arpit980jai/world_csc_picker
 repository: https://github.com/Arpit980jai/world_csc_picker
 publisher: arpitjai.com
