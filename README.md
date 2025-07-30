@@ -2,7 +2,8 @@
 
 A lightweight and customizable Flutter widget for cascading **Country → State/Province → City** selection, using globally updated city data from a local JSON file.
 
-![Top Banner](assets/CSCTopBanner.png)
+!![Top Banner](https://raw.githubusercontent.com/Arpit980jai/world_csc_picker/main/assets/CSCTopBanner.png)
+
 
 ---
 
