@@ -22,7 +22,7 @@ A lightweight and customizable Flutter widget for cascading **Country → State/
 
 Here’s how the picker looks in a typical Flutter app:
 
-![Picker Screenshot](assets/CSCPicker.png)
+![Picker Screenshot](https://raw.githubusercontent.com/Arpit980jai/world_csc_picker/main/assets/CSCPicker.png)
 
 ---
 
