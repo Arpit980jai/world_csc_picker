@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.4] - 2025-07-30
+### Fixed
+- Replaced local image paths in `README.md` with raw GitHub URLs to ensure screenshots and banners are visible on pub.dev
+
 ## [0.0.3] - 2025-07-30
 ### Added
 - Included screenshots (`CSCTopBanner.png`, `CSCPicker.png`) for better visual representation on pub.dev
