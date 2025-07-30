@@ -31,4 +31,4 @@ Here’s how the picker looks in a typical Flutter app:
 
 ```yaml
 dependencies:
-  world_csc_picker: ^0.0.2
+  world_csc_picker: ^0.0.3

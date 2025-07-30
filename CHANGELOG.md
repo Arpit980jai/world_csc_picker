@@ -1,12 +1,11 @@
-
----
-
-# CHANGELOG.md
-
-```markdown
 # Changelog
 
 All notable changes to this project will be documented in this file.
+
+## [0.0.3] - 2025-07-30
+### Added
+- Included screenshots (`CSCTopBanner.png`, `CSCPicker.png`) for better visual representation on pub.dev
+- Updated `README.md` with detailed installation steps, preview section, and usage examples
 
 ## [0.0.2] - 2025-07-30
 ### Changed
@@ -18,5 +17,3 @@ All notable changes to this project will be documented in this file.
 - Initial release with JSON parsing and cascading picker widget
 - `CountryStateCityData` for loading and grouping by country/state
 - `CountryStateCityPicker` widget with three-level dropdowns
-
-
